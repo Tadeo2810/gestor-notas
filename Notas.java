@@ -1,1 +1,3 @@
-"Crear documento notas.java"
+public class Notas{
+    
+}
